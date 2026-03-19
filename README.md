@@ -1,3 +1,6 @@
+# 🤖 AI Telegram Task Assistant
+
+🚀 Telegram-бот с логикой анализа пользовательских запросов и генерацией плана действий
 \# 🤖 AI Telegram Task Assistant
 
 
